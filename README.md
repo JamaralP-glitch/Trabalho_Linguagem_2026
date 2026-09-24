@@ -7,7 +7,6 @@ Projeto desenvolvido em **linguagem C** com o objetivo de auxiliar no controle f
 * Cálculo do desconto do salário;
 * Cálculo dos gastos mensais;
 * Cálculo da sobra do salário;
-* Cálculo do valor destinado a investimentos.
 
 > 🚧 **Projeto em desenvolvimento:** novas funcionalidades poderão ser adicionadas ao longo das etapas do projeto.
 
