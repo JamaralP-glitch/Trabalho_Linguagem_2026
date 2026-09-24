@@ -14,9 +14,9 @@ Projeto desenvolvido em **linguagem C** com o objetivo de auxiliar no controle f
 ### 👥 Integrantes
 
 ---
-RHASLLER FELIPE ARAÚJO MENEGHETTI
-JOÃO PAULO AMARAL
-GABRIEL DETOMINI RABELO
+**RHASLLER FELIPE ARAÚJO MENEGHETTI**
+**JOÃO PAULO AMARAL**
+**GABRIEL DETOMINI RABELO**
 
 ### 🎓 Projeto Acadêmico
 
