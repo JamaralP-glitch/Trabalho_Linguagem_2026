@@ -109,7 +109,7 @@
     printf("Informe o juros ao mês (%%): ");
     scanf("%f", &juros);
 
-    printf("Informe o nunero de parcelas: ");
+    printf("Informe o numero de parcelas: ");
     scanf("%d", &meses);
 
     if (valor <= 0 || juros < 0 || meses <= 0)
