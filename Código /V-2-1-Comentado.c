@@ -33,7 +33,7 @@
 
           vlr_sbr = Valor_Sobra(saliq, gts);
           
-          printf("\nConfira o valor que esta disponivel para investir: %R$.2f\n",vlr_sbr);
+          printf("\nConfira o valor que esta disponivel para investir: R$%.2f\n",vlr_sbr);
 
           // Pergunta se o usuário deseja investir e encaminha os dados.
           printf("\nPretende investir seu salário? sim = 1 ou não = 0  "); // informe os se tem interessi em investir 
