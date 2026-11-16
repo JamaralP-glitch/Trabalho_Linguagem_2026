@@ -175,7 +175,7 @@
 
 
       do
-      {printf("--------- Manu ----------------\n");
+      {printf("--------- Menu ----------------\n");
       printf("1 Auxilio financeiro\n");
       printf("2 Simulação para emprestimo\n");
       printf("0 Sair\n");
